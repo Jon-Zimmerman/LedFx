@@ -1,4 +1,4 @@
-I am working on a version to minimize the lag between the LEDs and the initial setup using an esp8266 chip over wifi. Some routers have too much delay with other network that the LEDs drop frames. Currently I am working on integrating the python server code into the code required to run the LED strip off of GPIO12.
+As the team behind this project is unable to continue, I am working on a version to minimize the lag between the LEDs and the initial setup using an esp8266 chip over wifi. Some routers have too much delay with other network that the LEDs drop frames. Currently I am working on integrating the python server code into the code required to run the LED strip off of GPIO12.
 
 
 
